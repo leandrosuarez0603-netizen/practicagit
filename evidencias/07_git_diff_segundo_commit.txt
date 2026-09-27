@@ -1,0 +1,25 @@
+diff --git a/hola.py b/hola.py
+index 16e8c03..6d10add 100644
+--- a/hola.py
++++ b/hola.py
+@@ -1,4 +1,5 @@
+ #!/usr/bin/env python3
+ """Script simple que imprime Hola Mundo."""
+ 
+-print("┬íHola Mundo desde Python!")
++print("┬íHola Mundo desde Python! Segundo commit.")
++print("Git permite llevar control de cambios.")
+diff --git a/index.html b/index.html
+index c3c7b91..5fb978f 100644
+--- a/index.html
++++ b/index.html
+@@ -6,7 +6,7 @@
+     <title>Hola Mundo</title>
+ </head>
+ <body>
+-    <h1>┬íHola Mundo!</h1>
+-    <p>Esta es mi primera pagina web creada con Git.</p>
++    <h1>┬íHola Mundo desde Git!</h1>
++    <p>Segundo commit: modifique el saludo para demostrar historial de versiones.</p>
+ </body>
+ </html>
